@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    margin-top: 2vh;
+
+}
+
+.imageContainer img{
+    min-width: 10vw;
+    min-height: 30vh; 
+    margin-bottom: 2vh
+}
+
+li{
+    list-style-type: none;
+    border: 0.09vh solid black;
+    font-family: 'PT Sans Narrow', sans-serif;
+    border-radius: 5vh;
+}
+
+li:hover{
+    background-color: hsl(60, 96%, 50%);
+   
+}
